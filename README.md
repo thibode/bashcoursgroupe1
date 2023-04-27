@@ -1,7 +1,7 @@
 # bashcoursgroupe1
 
 Crédits : 
--Léo TEXEIRA 
+-Léo TEIXEIRA 
 -Thibault DEQUIDT
 -Eliott LE DUC
 -Paul RINFRAY
